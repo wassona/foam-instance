@@ -1,0 +1,3 @@
+[submodule "foam-private"]
+	path = foam-private
+	url = git@github.com:wassona/foam-private.git
